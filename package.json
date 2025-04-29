@@ -45,7 +45,7 @@
     "simplebar": "^5.3.8",
     "simplebar-react": "^2.4.1",
     "typescript": "4.8.3",
-    "vite": "^4.2.0",
+    "vite": "^4.5.12",
     "web-vitals": "^3.0.2",
     "yup": "^0.32.11"
   },
